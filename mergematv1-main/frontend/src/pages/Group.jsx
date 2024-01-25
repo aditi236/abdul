@@ -30,8 +30,7 @@ export default function Group() {
                                 <input type="text" class="border rounded px-2 py-1" placeholder="Search" />
                                 <i class="fas fa-search absolute right-2 top-2 text-gray-400"></i>
                             </div>
-                            <i class="fas fa-video text-gray-600"></i>
-                            <i class="fas fa-phone-alt text-gray-600"></i>
+                            <a href="/zego"><i class="fas fa-video text-gray-600"></i></a>
                             <i class="fas fa-cog text-gray-600"></i>
                             <i class="fas fa-bell text-gray-600"></i>
                         </div>
@@ -72,7 +71,7 @@ export default function Group() {
                 </div>
             </div>
 
-        </body>
+        </body >
 
 
 
